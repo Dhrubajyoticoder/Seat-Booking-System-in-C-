@@ -45,6 +45,10 @@ When a seat is booked, it updates the array accordingly.
 
 ## Getting Started
 
+https://github.com/user-attachments/assets/7f096cb6-7cce-40b1-b7a9-4fe5aefd0c93
+
+
+
 ## Prerequisites
 
 Here's what you need to be able to run Seat Booking System :
